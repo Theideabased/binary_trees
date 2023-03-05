@@ -63,4 +63,3 @@ binary_tree_t *binary_tree_unle(binary_tree_t *node);
 binary_tree_t *binary_tree_ancestor(const binary_tree_t *first,
 	const binary_tree_t *second);
 
-
